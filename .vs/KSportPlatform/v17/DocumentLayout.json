@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE81FE3-49DD-4102-AC3C-5152741F2871}|API-GateWay\\API-GateWay.csproj|d:\\workspace\\api_development\\ksportplatform\\ksportplatform\\api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE81FE3-49DD-4102-AC3C-5152741F2871}|API-GateWay\\API-GateWay.csproj|solutionrelative:api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8EE32A-3AA8-43C8-ADDD-A09B0C5F681E}|API-Bookings\\API-Bookings.csproj|d:\\workspace\\api_development\\ksportplatform\\ksportplatform\\api-bookings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8EE32A-3AA8-43C8-ADDD-A09B0C5F681E}|API-Bookings\\API-Bookings.csproj|solutionrelative:api-bookings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785507A-6EB5-42D3-BA1D-7F98A4E7888D}|API-Socail-Media\\API-Socail-Media.csproj|d:\\workspace\\api_development\\ksportplatform\\ksportplatform\\api-socail-media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785507A-6EB5-42D3-BA1D-7F98A4E7888D}|API-Socail-Media\\API-Socail-Media.csproj|solutionrelative:api-socail-media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE81FE3-49DD-4102-AC3C-5152741F2871}|API-GateWay\\API-GateWay.csproj|d:\\workspace\\api_development\\ksportplatform\\ksportplatform\\api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE81FE3-49DD-4102-AC3C-5152741F2871}|API-GateWay\\API-GateWay.csproj|solutionrelative:api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{757affbd-aba2-4a34-a9d0-98e3035e33ef}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-GateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "API-GateWay\\appsettings.json",
+              "ToolTip": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-GateWay\\appsettings.json",
+              "RelativeToolTip": "API-GateWay\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T05:57:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-Socail-Media\\Program.cs",
+              "RelativeDocumentMoniker": "API-Socail-Media\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-Socail-Media\\Program.cs",
+              "RelativeToolTip": "API-Socail-Media\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:55:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-Bookings\\Program.cs",
+              "RelativeDocumentMoniker": "API-Bookings\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-Bookings\\Program.cs",
+              "RelativeToolTip": "API-Bookings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:53:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-GateWay\\Program.cs",
+              "RelativeDocumentMoniker": "API-GateWay\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\API_development\\KSportPlatform\\KSportPlatform\\API-GateWay\\Program.cs",
+              "RelativeToolTip": "API-GateWay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:41:04.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
