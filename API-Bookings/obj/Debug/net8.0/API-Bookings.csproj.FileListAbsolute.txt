@@ -32,3 +32,4 @@ D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Bookings\obj\Debu
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Bookings\obj\Debug\net8.0\API-Bookings.pdb
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Bookings\obj\Debug\net8.0\API-Bookings.genruntimeconfig.cache
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Bookings\obj\Debug\net8.0\ref\API-Bookings.dll
+D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Bookings\obj\Debug\net8.0\API-Bookings.sourcelink.json

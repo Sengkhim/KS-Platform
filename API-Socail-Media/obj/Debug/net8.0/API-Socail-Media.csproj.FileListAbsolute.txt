@@ -31,3 +31,4 @@ D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Socail-Media\obj\
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Socail-Media\obj\Debug\net8.0\API-Socail-Media.pdb
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Socail-Media\obj\Debug\net8.0\API-Socail-Media.genruntimeconfig.cache
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Socail-Media\obj\Debug\net8.0\ref\API-Socail-Media.dll
+D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\API-Socail-Media\obj\Debug\net8.0\API-Socail-Media.sourcelink.json

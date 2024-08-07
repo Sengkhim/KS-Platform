@@ -97,3 +97,4 @@ D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\KS-TEST\obj\Debug\net
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\KS-TEST\obj\Debug\net8.0\KS-TEST.pdb
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\KS-TEST\obj\Debug\net8.0\KS-TEST.genruntimeconfig.cache
 D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\KS-TEST\obj\Debug\net8.0\ref\KS-TEST.dll
+D:\WorkSpace\API_development\KSportPlatform\KSportPlatform\KS-TEST\obj\Debug\net8.0\KS-TEST.sourcelink.json
